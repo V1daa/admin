@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    font-family: "Roboto";
+    background: #f6f6f6;
+    height: 100vh;
+    overflow: hidden;
+}
+
+a{
+    color: rgb(55, 55, 55) !important ;
+}
+
+a:visited{
+    color: rgb(55, 55, 55) !important;
+}
